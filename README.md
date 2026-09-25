@@ -1,5 +1,7 @@
 ![banner](./banner.svg)
 
+[LinkedIn](https://www.linkedin.com/in/juancarloslivasreyes/) · [Email](mailto:juan.carlos.livas.reyes@gmail.com)
+
 Growing my skills in full-stack development and data-driven systems. Second-year CS student at Tec de Monterrey, competing in ICPC since 2025, with hands-on SAP consulting experience.
 
 `Python` `C++` `Flask` `React` `SQL`
