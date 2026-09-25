@@ -9,6 +9,6 @@
     <path d="M -15 235 C 210 120, 310 245, 500 118 S 790 10, 940 60" stroke-width="1.5" opacity="0.6"/>
     <path d="M -20 312 C 195 200, 295 300, 460 178 S 750 70, 940 122" stroke-width="1" opacity="0.4"/>
   </g>
-  <text x="60" y="100" font-size="34" font-weight="500" fill="#f4f3ef">Hello, I'm Juanky</text>
-  <text x="60" y="132" font-size="15" fill="#a8a6a0">Student. Builder. Learning something new every day.</text>
+  <text x="60" y="100" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="34" font-weight="600" fill="#f4f3ef">Hello, I'm Juanky</text>
+  <text x="60" y="132" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="15" fill="#a8a6a0">Student. Builder. Learning something new every day.</text>
 </svg>
