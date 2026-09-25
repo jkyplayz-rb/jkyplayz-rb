@@ -1,0 +1,16 @@
+<svg viewBox="0 0 900 220" xmlns="http://www.w3.org/2000/svg">
+  <rect width="900" height="220" fill="#12141c"/>
+  <g opacity="0.95" fill="none" stroke="#D9453F" stroke-linecap="round">
+    <path d="M -20 260 C 180 140, 280 260, 460 130 S 750 20, 940 70" stroke-width="3"/>
+    <path d="M -20 270 C 190 150, 292 268, 472 140 S 760 30, 940 80" stroke-width="2" opacity="0.85"/>
+    <path d="M -25 280 C 170 162, 270 275, 445 150 S 740 40, 940 92" stroke-width="1.5" opacity="0.7"/>
+    <path d="M -20 292 C 200 172, 300 282, 485 155 S 775 50, 940 100" stroke-width="2.5" opacity="0.8"/>
+    <path d="M -30 302 C 160 185, 258 290, 430 165 S 725 60, 940 112" stroke-width="1" opacity="0.5"/>
+    <path d="M -15 235 C 210 120, 310 245, 500 118 S 790 10, 940 60" stroke-width="1.5" opacity="0.6"/>
+    <path d="M -20 312 C 195 200, 295 300, 460 178 S 750 70, 940 122" stroke-width="1" opacity="0.4"/>
+  </g>
+  <text x="60" y="100" font-size="34" font-weight="500" fill="#f4f3ef">Hello, I'm Juanky</text>
+  <text x="60" y="132" font-size="15" fill="#a8a6a0">Student. Builder. Learning something new every day.</text>
+  <text x="840" y="168" font-size="13" fill="#a8a6a0" text-anchor="end">linkedin.com/in/juancarloslivasreyes</text>
+  <text x="840" y="190" font-size="13" fill="#a8a6a0" text-anchor="end">juan.carlos.livas.reyes@gmail.com</text>
+</svg>
