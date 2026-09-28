@@ -16,6 +16,6 @@ Built for HackMTY26, reaching 92.9% accuracy and 0.987 AUC, verified by organize
 Real-time anomaly detection on SAP logs, finished top 8 of 21 teams. <a href="https://github.com/danieldiazde/sap-threat-detector" target="_blank" rel="noopener noreferrer">repo</a>
 
 **World Cup predictor**<br>
-Real users made predictions during the FIFA World Cup 2026. <a href="https://github.com/jkyplayz-rb/worldcup-predictor" target="_blank" rel="noopener noreferrer">repo</a>
+Friends used it to make predictions during the FIFA World Cup 2026. <a href="https://github.com/jkyplayz-rb/worldcup-predictor" target="_blank" rel="noopener noreferrer">repo</a>
 
 Currently working on F1 Dashboard
